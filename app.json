@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "./src/App.jsx",
     "name": "notepad_rn",
     "slug": "notepad_rn",
     "version": "1.0.0",
